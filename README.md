@@ -13,7 +13,7 @@ AI Engineer | Python Developer | Machine Learning Enthusiast
 ## Tech Stack
 
 ### Languages
-Python, SQL, JavaScript
+Python, SQL
 
 ### Frameworks
 FastAPI, Streamlit, TensorFlow, PyTorch
