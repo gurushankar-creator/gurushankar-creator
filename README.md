@@ -36,5 +36,5 @@ Git, Docker, Linux, QGIS
 
 ## Connect With Me
 
-LinkedIn: your-linkedin
-Portfolio: your-portfolio
+LinkedIn: 
+Portfolio: https://gurushankar8186.github.io/Portfolio
