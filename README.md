@@ -1,33 +1,40 @@
-# gurushankar-creator
+# Hi, I'm Guru 👋
 
-Welcome to the gurushankar-creator repository!
+AI Engineer | Python Developer | Machine Learning Enthusiast
 
-## About
+## About Me
 
-This repository contains projects and code by gurushankar-creator.
+- Working at Ikastar
+- Building AI-powered CRM solutions
+- Learning NLP, LLMs, MCP, and Advanced Python
+- Working on QGIS Plugin Development
+- Interested in Machine Learning and Computer Vision
 
-## Getting Started
+## Tech Stack
 
-To get started with this repository, clone it and explore the contents:
+### Languages
+Python, SQL, JavaScript
 
-```bash
-git clone https://github.com/gurushankar-creator/gurushankar-creator.git
-cd gurushankar-creator
-```
+### Frameworks
+FastAPI, Streamlit, TensorFlow, PyTorch
 
-## Contents
+### Databases
+MongoDB, PostgreSQL, MySQL
 
-- [Documentation](./docs) - Project documentation
-- [Code](./src) - Source code files
+### AI/ML
+CNN, ResNet, NLP, Transformers, LLMs
 
-## Contributing
+### Tools
+Git, Docker, Linux, QGIS
 
-Contributions are welcome! Feel free to submit issues and pull requests.
+## Current Focus
 
-## License
+- MCP Tool Development
+- AI CRM Integration
+- QGIS Validation Plugin
+- Advanced NLP
 
-This project is open source and available under the MIT License.
+## Connect With Me
 
-## Contact
-
-For more information, visit [gurushankar-creator's GitHub profile](https://github.com/gurushankar-creator).
+LinkedIn: your-linkedin
+Portfolio: your-portfolio
